@@ -21,6 +21,7 @@ jobs:
         run: |
           registrys="
           docker.wqdy.top
+          docker.m.daocloud.io
           docker.io
           registry-1.docker.io
           registry.hub.docker.com
